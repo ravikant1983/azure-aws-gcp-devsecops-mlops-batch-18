@@ -119,3 +119,111 @@ To transform a **technical expert into a business decision-maker** who can:
 | Level 2 | AI Builder / Developer | AI-powered Tech Builder   |
 | Level 3 | Business Leader        | CEO / CTO / Founder       |
 
+
+Here are **clean, professional notes** based on the diagram you shared — suitable for class notes, documentation, or a GitHub `notes.md` file:
+
+# 🧩 Client-to-DevOps Delivery Workflow – Structured Notes
+
+## 1️⃣ Client & Marketplace Layer
+
+* **Client** represents the end customer with a business requirement.
+* **Chor.com Marketplace**
+
+  * Platform to **find the best talent globally for the client’s work**.
+  * Acts as the bridge between **clients and technical teams**.
+
+---
+
+## 2️⃣ Pre-Sales Team
+
+* The **Pre-Sales Team**:
+
+  * Interacts directly with the client.
+  * Understands:
+
+    * Business requirements
+    * Budget
+    * Timelines
+    * Technical scope
+  * Prepares:
+
+    * Initial solution design
+    * Cost estimation
+    * Team structure proposal
+
+---
+
+## 3️⃣ Technical Project Manager (TPM)
+
+* **Experience:** 20+ years
+* **Role:**
+
+  * Converts business requirements into technical execution plans.
+  * Responsible for:
+
+    * Project planning
+    * Team allocation
+    * Delivery timelines
+    * Risk management
+* **Team Built in 30 Days:**
+
+  * ✅ 2 DevOps Engineers
+  * ✅ 5 Frontend + Backend Developers
+  * ✅ 2 Database Engineers
+
+---
+
+## 4️⃣ Hiring & Talent Sourcing
+
+* Resources are hired from:
+
+  * **LinkedIn**
+  * **Naukri**
+* Ensures:
+
+  * Skilled professionals
+  * Fast hiring for project deadlines
+
+---
+
+## 5️⃣ DevOps & Architecture Layer
+
+### 👨‍💻 DevOps Architect
+
+* Designs:
+
+  * CI/CD pipelines
+  * Cloud infrastructure
+  * Security architecture
+  * Monitoring & logging
+* Tooling & platform decisions are handled here.
+
+### 👨‍💻 Developer Architect
+
+* Designs:
+
+  * Application architecture
+  * Microservices / Monolith decision
+  * API structure
+  * Code standards
+* Works closely with DevOps for smooth deployments.
+
+---
+
+## 6️⃣ Tools Used in the Workflow
+
+### 🧭 Diagram Tools
+
+Used for **architecture & flow design**
+
+* ✅ Draw.io (Free)
+* ✅ Microsoft Visio / Balsamiq / Whimsical (Paid)
+
+---
+
+### 💻 Coding Tools
+
+Used for **development & DevOps scripting**
+
+* ✅ VS Code – Primary coding IDE
+* ✅ Cursor – AI-powered coding assistant
